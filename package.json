@@ -1,0 +1,24 @@
+{
+  "name": "unkoynx7-hub",
+  "version": "1.0.0",
+  "description": "UnkoynX7 HUB - A central de downloads para os produtos da Stopped.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "UnkoynX7",
+  "license": "MIT",
+  "dependencies": {
+    "7zip-bin": "^5.2.0",
+    "axios": "^1.7.9",
+    "chalk": "^4.1.2",
+    "figlet": "^1.8.0",
+    "inquirer": "^7.3.3",
+    "nanospinner": "^1.2.2",
+    "node-7z": "^3.0.0",
+    "readline": "^1.3.0",
+    "sudo-prompt": "^9.2.1",
+    "wio.db": "^4.0.22"
+  }
+}

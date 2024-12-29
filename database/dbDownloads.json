@@ -1,0 +1,22 @@
+{
+    "downloads": {
+        "requirements": [
+            "https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe",
+            "https://github.com/abbodi1406/vcredist/releases/download/v0.82.0/VisualCppRedist_AIO_x86_x64.exe",
+            "https://cdn-fastly.obsproject.com/downloads/OBS-Studio-31.0.0-Windows-Installer.exe",
+            "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701br.exe"
+        ],
+        "loaders": [
+            "https://github.com/UnkoynX777/Downloads/blob/main/stoppedBasic.zip",
+            "https://github.com/UnkoynX777/Downloads/blob/main/stoppedAdvanced.zip",
+            "https://github.com/UnkoynX777/Downloads/blob/main/spooferTemporary.zip",
+            "https://github.com/UnkoynX777/Downloads/blob/main/spooferPermanent.zip"
+        ]
+    },
+    "passwords": [
+        "YRsGdpZ9VgZOVFiZAijCvdJWk190hE2Xr0xPjRkiVLQddGt0Mg",
+        "2Gu2ael32gjuqGzOEi3DkukAUCVHnZqaraqBAYWXxuuc1jdbLr",
+        "W=x)![)LfJCzz.r^^+IJ4@fH#5cE5FNG_K$}HG&dI^3vj!bb4J",
+        "GwDmC34Z2Ab3p8i3DB77LoezwTtLnmXJELCAb8cUrWzsKktAqq"
+    ]
+}
