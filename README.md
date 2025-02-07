@@ -23,7 +23,7 @@ Este projeto utiliza as seguintes tecnologias e bibliotecas:
 
 - [Node.js](https://nodejs.org/): Ambiente de execução para JavaScript no lado do servidor.
 - [Express](https://expressjs.com/): Framework para construção de APIs e aplicações web.
-- Outras dependências listadas no package.json.
+- Outras dependências listadas no [package.json](https://github.com/UnkoynX777/unkoynx7-hub/blob/main/package.json).
 
 ## Instalação e Configuração
 
