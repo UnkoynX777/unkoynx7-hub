@@ -2,16 +2,18 @@
 
 ## Visão Geral
 
-O **Unkoynx7 Hub** é uma aplicação desenvolvida em JavaScript que visa [descrever brevemente o propósito do projeto]. Este projeto foi estruturado para oferecer [principais funcionalidades ou benefícios], garantindo [aspectos como eficiência, segurança, usabilidade, etc.].
+O **Unkoynx7 Hub** é uma aplicação desenvolvida em JavaScript que visa facilitar a execução de processos automatizados.
+O projeto foi estruturado para oferecer uma interface intuitiva, permitindo que o usuário selecione rapidamente qual processo deseja iniciar.
+Focado em eficiência e usabilidade, o sistema garante uma execução otimizada sem necessidade de configurações complexas.
 
 ## Estrutura do Projeto
 
 A organização do repositório é a seguinte:
 
-- **database/**: Contém [descrição do conteúdo, como scripts de banco de dados, esquemas, etc.].
-- **downloads/windows/**: Inclui [descrição do conteúdo, como instaladores específicos para Windows, arquivos de configuração, etc.].
-- **src/**: Abriga o código-fonte principal da aplicação, incluindo [descrição de componentes ou módulos principais].
-- **index.js**: Ponto de entrada da aplicação, responsável por [descrição das responsabilidades do arquivo].
+- **database/**: Contém informações armazenadas pelo sistema. Não requer modificação manual.
+- **downloads/windows/**: Inclui arquivos para desativar o Windows Defender.
+- **src/**: Abriga o código-fonte principal da aplicação, incluindo os módulos responsáveis pelo funcionamento.
+- **index.js**: Ponto de entrada da aplicação, onde são gerenciadas as lógicas de execução.
 - **package.json**: Arquivo de configuração que lista as dependências do projeto e scripts de execução.
 - **start.bat**: Script para inicialização rápida da aplicação em ambientes Windows.
 
@@ -21,7 +23,7 @@ Este projeto utiliza as seguintes tecnologias e bibliotecas:
 
 - [Node.js](https://nodejs.org/): Ambiente de execução para JavaScript no lado do servidor.
 - [Express](https://expressjs.com/): Framework para construção de APIs e aplicações web.
-- [Outras dependências listadas no package.json].
+- Outras dependências listadas no package.json.
 
 ## Instalação e Configuração
 
@@ -42,7 +44,7 @@ Para configurar o ambiente de desenvolvimento, siga os passos abaixo:
 
 3. **Configuração do Banco de Dados:**
 
-   [Instruções detalhadas sobre como configurar o banco de dados, incluindo scripts necessários e configurações específicas.]
+   O banco de dados é utilizado apenas para armazenar informações e não deve ser alterado manualmente.
 
 4. **Inicialize a Aplicação:**
 
@@ -54,7 +56,7 @@ Para configurar o ambiente de desenvolvimento, siga os passos abaixo:
 
 ## Uso
 
-[Forneça instruções claras sobre como utilizar a aplicação, incluindo exemplos de comandos, capturas de tela ou descrições de funcionalidades.]
+A utilização da aplicação é simples: basta selecionar a opção do processo desejado e a execução será iniciada automaticamente.
 
 ## Contribuição
 
@@ -71,4 +73,6 @@ Este projeto está licenciado sob a [especificar licença, por exemplo, MIT Lice
 
 ## Contato
 
-Para dúvidas ou suporte, entre em contato através de discord.gg/nexus-services ou @unkoynx77 no discord.
+Para dúvidas ou suporte, entre em contato através de:
+- [Discord Server](https://discord.gg/nexus-services)
+- **@unkoynx77** no Discord.
